@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis--Data-Cleaning-PIVOT-Data-Analysis-Data-Visualization-
+# Sales-Performance-Analysis Dashboard
 ## I have used Microsoft Excel to:
 - Perform basic Data Cleaning on a dirty sales performance dummy dataset sample
 - Performed basic PIVOT
